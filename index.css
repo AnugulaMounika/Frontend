@@ -1,0 +1,40 @@
+span{
+    
+    background-color: pink;
+    height: 20px;
+    width: 200px;
+    
+}
+#text-box {
+    background-color: pink;
+    font-size: 10pt;
+    height: 200px;
+    width : 200px;
+}
+.container{
+    background-color: pink;
+    font-size: 10pt;
+    height: 200px;
+    width : 200px;
+}
+.img{
+    height: 200px;
+
+}
+.container1{
+    width: 250px;
+    height: 50px;
+    background-color: blue;
+    padding: 2px;
+    border: 1px;
+    box-sizing: border-box;
+}
+.container2{
+    width: 250px;
+    height: 50px;
+    background-color: aquamarine;
+    padding: 2px;
+    border: 1px;
+    box-sizing: content-box;
+
+}
